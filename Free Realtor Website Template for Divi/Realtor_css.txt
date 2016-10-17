@@ -1,0 +1,75 @@
+@media(min-width:600px) and (max-width:820px) {
+    .Realtor-tab .et_pb_tabs_controls.clearfix {
+        text-align: center;
+        margin: 0;
+    }
+    .Realtor-tab.et_pb_tabs_0.et_pb_tabs .et_pb_tabs_controls li {
+        float: none;
+        display: inline-block;
+    }
+}
+@media (min-width: 450px) and (max-width: 580px) {
+    .Realtor-tab .et_pb_tabs_controls.clearfix {
+        text-align: center;
+        margin: 0;
+    }
+    .Realtor-tab.et_pb_tabs_0.et_pb_tabs .et_pb_tabs_controls li {
+        float: none;
+        display: inline-block;
+    }
+}
+@media(min-width:1020px) {
+    .property-service {
+        width: 30%;
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .property-service .et_pb_main_blurb_image {
+        margin-bottom: 0;
+    }
+    .Realtor-tab .et_pb_tabs_controls.clearfix {
+        text-align: center;
+        margin: 0;
+    }
+    .Realtor-tab.et_pb_tabs_0.et_pb_tabs .et_pb_tabs_controls li {
+        float: none;
+        display: inline-block;
+    }
+    .Realtor-tab .et_pb_all_tabs {
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+@media(min-width:320px) and (max-width: 490px) {
+    .Realtor-tab.et_pb_tabs_0.et_pb_tabs .et_pb_tabs_controls li {
+        font-size: 16px;
+        display: inline;
+        float: none;
+    }
+    .Realtor-tab .et_pb_tabs_controls.clearfix {
+        text-align: center;
+    }
+    .Realtor-tab .et_pb_all_tabs {
+        padding: 40px 0;
+    }
+    .property-title {
+        font-size: 26px !important;
+    }
+    .et_pb_column.et_pb_column_14 {
+        padding-left: 0 !important;
+    }
+    .property-amount.et_pb_blurb h4 {
+        font-size: 18px !important;
+    }
+    .service-headline {
+        display: none;
+    }
+    .Contact-Email.et_pb_blurb h4 {
+        width: 190px !important;
+    }
+}
+@media(min-width:800px) and (max-width: 1030px) {
+    .About-headline.et_pb_text_5 {
+        font-size: 80px !important;
+    }
+}
